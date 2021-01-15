@@ -1,13 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: A learning playground
+author: Bernardo Pereira
+email: bmvm.pereira@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  So I was told to write an awesome description here. That is something to do when you're just learning. 
+  Yes, that is the point of this online space: to learn. 
+  I'm recording my journey through applying data science and artificial intelligence to medical imaging. 
+  I mean, medical imaging is the focus but probably plenty of other things will show up in here. 
+  I will mostly use free online resources such as YouTube, GitHub, Coursera and so on and so forth.
+  
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: bmv_pereira # DO NOT include the @ character, or else the build will fail!
+github_username:  bmvmpereira # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
